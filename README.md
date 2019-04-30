@@ -1,0 +1,2 @@
+# Authentication_by_Stylometry_NLP
+This Projects aim to evaluate the efficiency of Stylometry approach as an authentication method. Stylometric analysis research has been done for author identification and there is significant progress to recognize an author based on their written texts. In this project, we tried to detect differences between writing styles on the same topic provided by a set of users and we test that these differences are enough to use for an authentication system or not.
